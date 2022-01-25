@@ -14,9 +14,7 @@ import java.util.Date;
  */
 public class DateUtils {
 
-    //一天的毫秒数
     private static final long ONE_DAY_MILLISECONDS = 1 * 24 * 60 * 60 * 1000;
-    //默认日期格式
     private static final String DEFAULT_DATE_FORMAT = "yyyy-MM-dd";
 
     /**
